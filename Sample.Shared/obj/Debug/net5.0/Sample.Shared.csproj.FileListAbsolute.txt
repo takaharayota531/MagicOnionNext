@@ -1,0 +1,12 @@
+C:\Users\YoutaTakahara\Documents\intern\MagicOnionNext\Sample.Shared\bin\Debug\net5.0\Sample.Shared.deps.json
+C:\Users\YoutaTakahara\Documents\intern\MagicOnionNext\Sample.Shared\bin\Debug\net5.0\Sample.Shared.dll
+C:\Users\YoutaTakahara\Documents\intern\MagicOnionNext\Sample.Shared\bin\Debug\net5.0\ref\Sample.Shared.dll
+C:\Users\YoutaTakahara\Documents\intern\MagicOnionNext\Sample.Shared\bin\Debug\net5.0\Sample.Shared.pdb
+C:\Users\YoutaTakahara\Documents\intern\MagicOnionNext\Sample.Shared\obj\Debug\net5.0\Sample.Shared.csproj.AssemblyReference.cache
+C:\Users\YoutaTakahara\Documents\intern\MagicOnionNext\Sample.Shared\obj\Debug\net5.0\Sample.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YoutaTakahara\Documents\intern\MagicOnionNext\Sample.Shared\obj\Debug\net5.0\Sample.Shared.AssemblyInfoInputs.cache
+C:\Users\YoutaTakahara\Documents\intern\MagicOnionNext\Sample.Shared\obj\Debug\net5.0\Sample.Shared.AssemblyInfo.cs
+C:\Users\YoutaTakahara\Documents\intern\MagicOnionNext\Sample.Shared\obj\Debug\net5.0\Sample.Shared.csproj.CoreCompileInputs.cache
+C:\Users\YoutaTakahara\Documents\intern\MagicOnionNext\Sample.Shared\obj\Debug\net5.0\Sample.Shared.dll
+C:\Users\YoutaTakahara\Documents\intern\MagicOnionNext\Sample.Shared\obj\Debug\net5.0\ref\Sample.Shared.dll
+C:\Users\YoutaTakahara\Documents\intern\MagicOnionNext\Sample.Shared\obj\Debug\net5.0\Sample.Shared.pdb
