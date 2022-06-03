@@ -9,5 +9,9 @@ public class SampleHub : StreamingHubBase<ISampleHub, ISampleHubReceiver>, ISamp
 {
     private IGroup room;
     private Player me;
+
+
+    public async Task J
+}
 }
 
